@@ -8,7 +8,7 @@ export default function About() {
     <section id="about" className="py-16 md:py-24 bg-gradient-to-b from-white to-gray-50">
       <div className="max-w-7xl mx-auto px-4">
         <SectionTitle
-          title="About WN Home Improvement"
+          title="About us"
           subtitle="Professional exterior remodeling services for residential properties in Lowell, MA and surrounding areas."
         />
 

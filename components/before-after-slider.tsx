@@ -166,10 +166,10 @@ export default function BeforeAfterSlider({ items }: BeforeAfterSliderProps) {
 
         {/* Before/After labels */}
         <div className="absolute top-4 left-4 bg-black/70 text-white px-3 py-1 rounded-full text-sm font-medium">
-          Avant
+          Before
         </div>
         <div className="absolute top-4 right-4 bg-primary text-white px-3 py-1 rounded-full text-sm font-medium">
-          Après
+          After
         </div>
       </div>
 
